@@ -1,0 +1,74 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Entertainment",247 Box TV
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="" group-title="Movies",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AlWilayah.ir@SD" tvg-logo="https://i.imgur.com/OI1HQv5.png" group-title="Religious",Al Wilayah (720p)
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" tvg-logo="" group-title="Undefined",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" tvg-logo="" group-title="Undefined",Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AssiratTV.ir@SD" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Religious",Assirat TV (576p)
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AVAFamily.ir@SD" tvg-logo="" group-title="Family",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" tvg-logo="" group-title="Movies",Cafe Film
+https://cafefhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" tvg-logo="" group-title="Classic",Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX1.ir@SD" tvg-logo="" group-title="Entertainment",FX 1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="FX2.ir@SD" tvg-logo="" group-title="Entertainment",FX 2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="Movies",Gold Star
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",Iran Jewish TV
+http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (576p)
+http://185.9.2.18/chid_926/index.m3u8
+
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="" group-title="Movies",Meta Film TV
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OXIRTV.ir@SD" tvg-logo="https://i.imgur.com/MGMhUDx.png" group-title="Entertainment",OXIR TV
+https://hls.oxir.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PooyaTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png" group-title="Kids",Pooya TV
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PressTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png" http-referrer="https://odysee.com/" group-title="News",Press TV (720p)
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/26bcbcc342a5b143578f27dbfaf000201f06e417/master.m3u8
+
+#EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2
+https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TBNNejatTV.ir@SD" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="Undefined",TBN Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="TVITN.ir@SD" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="Entertainment",TV ITN
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="WiseHumanTv.ir@HD" tvg-logo="https://i.imgur.com/BT7EtfB.png" group-title="Religious",WiseHumanTv (1080p)
+https://avr.host247.net/live/WiseHumanTv/playlist.m3u8

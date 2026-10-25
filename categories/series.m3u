@@ -1,0 +1,220 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-logo="https://i.imgur.com/CD3vZU6.png" group-title="Series",4ever Drama (1080p)
+http://stream.mcquack.net/260/index.m3u8
+
+#EXTINF:-1 tvg-id="5minuttishiny.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/5minut_live.jpg" group-title="Series",5 minut tishiny (1080p)
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Comedy;Series",Anger Management Channel (1080p)
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntiquesRoadshowUK.us@SD" tvg-logo="https://i.imgur.com/rKWLv48.png" group-title="Series",Antiques Roadshow UK (1080p)
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AreWeThereYet.us@SD" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Series",Are We There Yet? (1080p)
+https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies;Series",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="AXNBlack.pl@SD" tvg-logo="https://i.imgur.com/Nqvx6nz.png" group-title="Series",AXN Black (Poland) (576i)
+http://92.114.85.87:8014/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNWhite.pl@SD" tvg-logo="https://i.imgur.com/DaAyLE7.png" group-title="Movies;Series",AXN White (Poland) (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="BabAlHara.sa@SD" tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Series",Bab Al Hara (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Balabol.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/balabol_vse.jpg" group-title="Series",Balabol (1080p)
+https://cdn-dvr.ntv.ru/Balabol/index.m3u8
+
+#EXTINF:-1 tvg-id="Choppertown.us@SD" tvg-logo="https://i.imgur.com/U6cu5Ms.png" group-title="Auto;Series",Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenKinoDok.ru@HD" tvg-logo="https://i.imgur.com/itRbMX3.png" group-title="Documentary;Series",City Eden KinoDok [Not 24/7]
+https://cityeden.catcast.tv/content/38354/index.m3u8
+
+#EXTINF:-1 tvg-id="CityEdenTeleNovella.ru@HD" tvg-logo="https://i.imgur.com/mT5liTh.png" group-title="Series",City Eden TeleNovella [Not 24/7]
+https://cityeden.catcast.tv/content/46209/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" group-title="Business;Series",CNBC-e
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+
+#EXTINF:-1 tvg-id="DarkMatterTV.us@SD" tvg-logo="https://i.imgur.com/9K8T3ND.png" group-title="Series",Dark Matter TV (720p)
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DealorNoDeal.us@SD" tvg-logo="https://i.imgur.com/lZvNXA1.png" group-title="Series",Deal or No Deal (1080p)
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Series",Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DogtheBountyHunter.us@UK" tvg-logo="https://i.imgur.com/lMICupK.png" group-title="Series",Dog the Bounty Hunter UK (1080p)
+https://amg00276-amg00276c11-rakuten-uk-3446.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunterall-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FearFactor.us@US" tvg-logo="https://i.imgur.com/CIYnLWz.png" group-title="Series",Fear Factor (1080p)
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life (576p)
+http://stream.mcquack.net/129/index.m3u8
+
+#EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Series",Frequence Novelas (1080p)
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HauntTV.ca@SD" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Series",HauntTV (1080p)
+https://amg01446-blueantmediacan-haunttvaussam-samsungau-vcnai.amagi.tv/playlist/amg01446-blueantmediacan-haunttvaussam-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (United States) (720p)
+http://tvsen7.aynascope.net/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies;Series",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="ImpossibleQuizShow.us@SD" tvg-logo="https://i.imgur.com/9EWffqx.png" group-title="Series",Impossible Quiz Show (1080p)
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="InsideCrime.us@UK" tvg-logo="https://i.imgur.com/wvQYWsj.png" group-title="Series",Inside Crime (1080p)
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JudgeNosey.us@US" tvg-logo="https://i.imgur.com/S4r98AB.png" group-title="Series",Judge Nosey (1080p)
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maraya.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/d089a559-4f41-4def-a786-f98fcfbf0464?height=auto&width=288&croppingPoint=&version=1&type=png" group-title="Series",Maraya (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBCDramaUSA.us@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Series",MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasrDrama.sa@SD" tvg-logo="https://media0070.elcinema.com/tvguide/1399_1.png" group-title="Series",MBC Masr Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaFiccion.cl@SD" tvg-logo="https://i.imgur.com/aQdhJie.png" group-title="Series",Mega Ficcion (1080p)
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+#EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-logo="https://i.imgur.com/VFqfyfY.png" group-title="Series",Midsomer Murders (1080p)
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MirSeriala.ru@SD" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="Series",Mir Seriala (576p)
+http://176.118.197.101/MirSeriala/index.m3u8
+
+#EXTINF:-1 tvg-id="Mireasa.ro@SD" tvg-logo="https://i.imgur.com/k0VO0LH.png" group-title="Series",Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MST3K.us@US" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="Series",MST3K (1080p)
+https://mst3k-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="Movies;Series",Nashe HD (576p)
+http://stream.mcquack.net/217/index.m3u8
+
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="Series",Nevskiy (1080p)
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+
+#EXTINF:-1 tvg-id="Novelisima.us@SD" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelisima (1080p)
+http://138.59.177.78:9999/play/a0gg/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVSeries.ru@SD" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="Series",NTV Series (576p)
+http://stream.mcquack.net/301/index.m3u8
+
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="Series",NTV-Hit (576p)
+http://178.134.1.158:8081/ntvhit/index.m3u8
+
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-logo="https://i.ibb.co/Jw0J5fnW/IMG-2509.png" group-title="Series",ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+
+#EXTINF:-1 tvg-id="OuterSphere.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f162df8b-6532-43fe-9202-83a658090651/OuterSphere_1500x1000_Logo_Dark_-_Chris_Connors__1_.png" group-title="Movies;Series",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+
+#EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="Series",PBS Antiques Roadshow (1080p)
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PersianaSeries.fr@HD" tvg-logo="" group-title="Series",Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="Series",Pes (1080p)
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+
+#EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="Entertainment;Series",Rakuten Viki Poland
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SerieMax.ci@SD" tvg-logo="https://i.imgur.com/GaRQXHT.png" group-title="Series",Serie Max
+https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="Series",Shef (1080p)
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="Series",Skoraya pomoshch (1080p)
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Lyubov.ru@SD" tvg-logo="https://i.imgur.com/4EFh0nu.png" group-title="Series",Smotrim 100% Lyubov (720p)
+https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
+
+#EXTINF:-1 tvg-id="Smotrim100Muzhskoe.ru@SD" tvg-logo="https://i.imgur.com/UY3fjYU.png" group-title="Series",Smotrim 100% Muzhskoe (720p)
+https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
+
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="Series",Smotrim Chestnyy Detektiv (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyOneBlacklist.fr@HD" tvg-logo="https://i.imgur.com/uJC8rXr.png" group-title="Series",Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series",Star Channel (Chile) (720p)
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperTV.it@SD" tvg-logo="https://i.imgur.com/hxF3yhw.png" group-title="General;Series",Super TV (Italy) (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SYFY.us@East" tvg-logo="https://i.imgur.com/4fMWhUE.png" group-title="Movies;Series",SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id="TheChatShowChannel.uk@SD" tvg-logo="https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj" group-title="Comedy;Series",The Chat Show Channel (1080p)
+https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheLoop.us@SD" tvg-logo="https://i.imgur.com/iyYLuJj.png" group-title="Classic;Series",The Loop (1080p)
+https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
+
+#EXTINF:-1 tvg-id="TlnovelasMexico.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series",Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas Brazil (720p)
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Series",TNT Series Latin America (1080p)
+http://168.196.127.137:6001/play/a095/index.m3u8
+
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-logo="https://i.imgur.com/NuYwGok.png" group-title="Series",Todo Novelas (1080p)
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+
+#EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Series",True Crime (1080p)
+https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="Series",TVI Ficcao (720p)
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+
+#EXTINF:-1 tvg-id="TVPSeriale.pl@SD" tvg-logo="https://i.imgur.com/MuRtvXk.png" group-title="Series",TVP Seriale (1080p)
+http://92.114.85.87:8019/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" group-title="Series",Viasat Epic Drama Ukraine (576p)
+http://195.189.60.253/118/index.m3u8
+
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="Series",viju+ Serial HD (1080p)
+http://stream.mcquack.net/311/index.m3u8
+
+#EXTINF:-1 tvg-id="WeTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/960px-We_TV_logo_2014.svg.png" group-title="Series",We TV (1080p)
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="YamTichoni.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/58/YamTichoniChannel.svg/1280px-YamTichoniChannel.svg.png" group-title="Series",Yam Tichoni (1080p)
+http://stream.mcquack.net/46/index.m3u8

@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8

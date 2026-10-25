@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="MNBSport.mn@SD" tvg-logo="https://i.imgur.com/z854PC3.png" group-title="Sports",MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8

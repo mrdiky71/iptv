@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz"
+
+#EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Science",.sci-fi (576p)
+http://stream.mcquack.net/180/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Science",Discovery Science Latin America (720p)
+http://45.171.64.30:6060/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-id="EkoTV.ua@SD" tvg-logo="https://i.imgur.com/WovATGb.png" http-user-agent="curl/8.16.0" group-title="Science",Eko TV (720p)
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" group-title="Science",InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MediBizTV.in@SD" tvg-logo="https://www.medibiztv.com/assets/logo-E76jcvP9.png" group-title="Education;News;Science",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" group-title="Documentary;Education;Science",UMSA TVU Internacional (720p)
+https://edge.enhdtv.com/8026/index.m3u8
+
+#EXTINF:-1 tvg-id="Wonder.uk@SD" tvg-logo="https://i.imgur.com/LquGNbh.png" group-title="Science",Wonder (1080p)
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
